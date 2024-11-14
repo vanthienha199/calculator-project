@@ -1,0 +1,18 @@
+# Bỏ qua các thư mục cấu hình của IDE
+.idea/
+
+# Bỏ qua thư mục chứa file biên dịch
+out/
+
+# Bỏ qua tất cả các file biên dịch Java (.class)
+*.class
+
+# Bỏ qua các tệp tài liệu (nếu không muốn đẩy chúng lên Git)
+*.docx
+
+# Bỏ qua tệp log
+*.log
+
+# Bỏ qua tệp hệ thống hoặc tạm thời
+.DS_Store
+Thumbs.db
